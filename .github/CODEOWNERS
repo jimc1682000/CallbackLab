@@ -1,0 +1,20 @@
+# This file defines who owns specific parts of the codebase
+# GitHub will automatically request reviews from code owners when PRs are opened
+
+# Global ownership - Jimmy Chen owns everything by default
+* @jimc1682000
+
+# Java source files
+src/tw/com/jimmy/lab/ @jimc1682000
+
+# Documentation
+README.md @jimc1682000
+CONTRIBUTING.md @jimc1682000
+SECURITY.md @jimc1682000
+
+# Configuration files
+.gitignore @jimc1682000
+LICENSE @jimc1682000
+
+# Build and project configuration
+bin/ @jimc1682000
